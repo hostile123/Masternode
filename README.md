@@ -1,0 +1,2 @@
+# Masternode
+Custom Pivx Clone
