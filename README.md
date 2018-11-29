@@ -1,2 +1,2 @@
 # Masternode
-Custom Pivx Clone
+Custom Pivx Clone Script
